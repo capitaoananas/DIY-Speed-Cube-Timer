@@ -14,7 +14,6 @@ My timer would be:
 So ya that is why I want to make my own timer So it would be easier to time my solves. 
 
 Next steps:
-- Create a GitHub repository. To document and share the progress of the project.
 - Sketch the timer. Visualizing the design and layout of the timer.
 - Plan the hardware that I'm going to use. (By hardware I mean electronics and components)
 - Make an update post. To show my progress.
