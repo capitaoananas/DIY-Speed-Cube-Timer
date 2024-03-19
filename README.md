@@ -21,6 +21,7 @@ Next steps:
 That's all! If you have any feedback, Ideas or if you want to help. Let me know!
 
 BTW I use https://cstimer.net to time my solves. (If you are a speed cuber you probably already use or know csTimer)
-![Timer](https://github.com/capitaoananas/DIY-Speed-Cube-Timer/assets/155737845/8708c9ee-3c8f-418e-8c4e-03ee623097c8)
-![Timer 2](https://github.com/capitaoananas/DIY-Speed-Cube-Timer/assets/155737845/535ae2ef-bd87-441a-b04c-f9737565af31)
-![Hand Posision Timer](https://github.com/capitaoananas/DIY-Speed-Cube-Timer/assets/155737845/bdedb823-a086-4bd9-8da9-f188bad268fd)
+
+![Timer](https://github.com/capitaoananas/DIY-Speed-Cube-Timer/assets/155737845/ec508db0-e915-410d-aa8e-7028a0e36b37)
+![Timer 2](https://github.com/capitaoananas/DIY-Speed-Cube-Timer/assets/155737845/faf5c504-00ac-4821-b85c-7c2f8cdab83e)
+![Hand Posision Timer](https://github.com/capitaoananas/DIY-Speed-Cube-Timer/assets/155737845/8ab49577-2ae8-4ce0-835e-e91c48c0794a)
