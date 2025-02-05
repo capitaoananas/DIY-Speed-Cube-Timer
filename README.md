@@ -1,5 +1,7 @@
 # DIY Speed Cube Timer
 
+## This project is in stand by RN!
+
 I Don't know if you know but I know how to solve the Rubik's cube pretty fast under 40 seconds. To be specific my record is 31.89 seconds. And I use a computer to time my solves and its starting to be pretty unpractical and slow to use a computer.
 
 And all timers in the market are 30€ to 40€ and they are ugly and super plasticky. And that is where the idea surged: Make my own timer!
